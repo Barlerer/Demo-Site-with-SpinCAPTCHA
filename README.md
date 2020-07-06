@@ -5,7 +5,7 @@ Small demo website that is using SpinCAPTCHA as a protection solution. If a scor
 - Express framework
 - NodeJS
 - Docker
-- Json Web Token
+- JSON Web Token
 - RSA keys
 
 # How should I deploy?
